@@ -41,7 +41,7 @@ public class Principal {
         int opcion;
         do {
             System.out.println("Bienvenido a Literalura");
-            System.out.println("1. Buscar librp por titulo");
+            System.out.println("1. Buscar libro por titulo");
             System.out.println("2. Listar libros registrados");
             System.out.println("3. Listar autores registrados");
             System.out.println("4. Listar autores vivos en un año");
